@@ -1,0 +1,431 @@
+Chapter 1
+Tied Up With String
+Calling it a cover-up would be far too dramatic. But for more than half a century even in the midst of some of the greates
+scientific achievements in history physicists have been quietly aware of a dark cloud looming on a distant horizon. The proble
+is this: There are two foundational pillars upon which modern physics rests. One is Albert Einstein's general relativity, which
+provides a theoretical framework for understanding the universe on the largest of scales: stars, galaxies, clusters of galaxies, and
+beyond to the immense expanse of the universe itself. The other is quantum mechanics, which provides a theoretical framework for
+understanding the universe on the smallest of scales: molecules, atoms, and all the way down to subatomic particles like electrons
+and quarks. Through years of research, physicists have experimentally confirmed to almost unimaginable accuracy virtually all
+predictions made by each of these theories. But these same theoretical tools inexorably lead to another disturbing conclusion: As
+they are currently formulated, general relativity and quantum mechanics cannot both be right. The two theories underlying the
+tremendous progress of physics during the last hundred years progress that has explained the expansion of the heavens and th
+fundamental structure of matter are mutually incompatible
+If you have not heard previously about this ferocious antagonism you may be wondering why. The answer is not hard to come by.
+In all but the most extreme situations, physicists study things that are either small and light (like atoms and their constituents) or
+things that are huge and heavy (like stars and galaxies), but not both. This means that they need use only quantum mechanics or
+only general relativity and can, with a furtive glance, shrug off the barking admonition of the other. For fifty years this approach
+has not been quite as blissful as ignorance, but it has been pretty close.
+But the universe can be extreme. In the central depths of a black hole an enormous mass is crushed to a minuscule size. At the
+moment of the big bang the whole of the universe erupted from a microscopic nugget whose size makes a grain of sand look
+colossal. These are realms that are tiny and yet incredibly massive, therefore requiring that both quantum mechanics and general
+relativity simultaneously be brought to bear. For reasons that will become increasingly clear as we proceed, the equations of
+general relativity and quantum mechanics, when combined, begin to shake, rattle, and gush with steam like a red-lined automobile.
+Put less figuratively, well-posed physical questions elicit nonsensical answers from the unhappy amalgam of these two theories.
+Even if you are willing to keep the deep interior of a black hole and the beginning of the universe shrouded in mystery, you can't
+help feeling that the hostility between quantum mechanics and general relativity cries out for a deeper level of understanding. Can
+it really be that the universe at its most fundamental level is divided, requiring one set of laws when things are large and a different,
+incompatible set when things are small?
+Superstring theory, a young upstart compared with the venerable edifices of quantum mechanics and general relativity, answers
+with a resounding no. Intense research over the past decade by physicists and mathematicians around the world has revealed that
+this new approach to describing matter at its most fundamental level resolves the tension between general relativity and quantum
+mechanics. In fact, superstring theory shows more: Within this new framework, general relativity and quantum mechanics require
+one another for the theory to make sense. According to superstring theory, the marriage of the laws of the large and the small is not
+only happy but inevitable.
+That's part of the good news. But superstring theory string theory, for short takes this union one giant step further. For thr
+decades, Einstein sought a unified theory of physics, one that would interweave all of nature's forces and material constituents
+within a single theoretical tapestry. He failed. Now, at the dawn of the new millennium, proponents of string theory claim that the
+threads of this elusive unified tapestry finally have been revealed. String theory has the potential to show that all of the wondrous
+happenings in the universe from the frantic dance of subatomic quarks to the stately waltz of orbiting binary stars, from th
+primordial fireball of the big bang to the majestic swirl of heavenly galaxies are reflections of one grand physical principle, on
+master equation.
+Because these features of string theory require that we drastically change our understanding of space, time, and matter, they will
+take some time to get used to, to sink in at a comfortable level. But as shall become clear, when seen in its proper context, string
+theory emerges as a dramatic yet natural outgrowth of the revolutionary discoveries of physics during the past hundred years. In
+fact, we shall see that the conflict between general relativity and quantum mechanics is actually not the first, but the third in a
+-- 7 --
+sequence of pivotal conflicts encountered during the past century, each of whose resolution has resulted in a stunning revision of
+our understanding of the universe.
+The Three Conflicts
+The first conflict, recognized as far back as the late 1800s, concerns puzzling properties of the motion of light. Briefly put,
+according to Isaac Newton's laws of motion, if you run fast enough you can catch up with a departing beam of light, whereas
+according to James Clerk Maxwell's laws of electromagnetism, you can't. As we will discuss in Chapter 2, Einstein resolved this
+conflict through his theory of special relativity, and in so doing completely overturned our understanding of space and time.
+According to special relativity, no longer can space and time be thought of as universal concepts set in stone, experienced
+identically by everyone. Rather, space and time emerged from Einstein's reworking as malleable constructs whose form and
+appearance depend on one's state of motion.
+The development of special relativity immediately set the stage for the second conflict. One conclusion of Einstein's work is that no
+object in fact, no influence or disturbance of any sort can travel faster than the speed of light. But, as we shall discuss 
+Chapter 3, Newton's experimentally successful and intuitively pleasing universal theory of gravitation involves influences that are
+transmitted over vast distances of space instantaneously. It was Einstein, again, who stepped in and resolved the conflict by
+offering a new conception of gravity with his 1915 general theory of relativity. Just as special relativity overturned previous
+conceptions of space and time, so too did general relativity. Not only are space and time influenced by one's state of motion, but
+they can warp and curve in response to the presence of matter or energy. Such distortions to the fabric of space and time, as we
+shall see, transmit the force of gravity from one place to another. Space and time, therefore, can no longer to be thought of as an
+inert backdrop on which the events of the universe play themselves out; rather, through special and then general relativity, they are
+intimate players in the events themselves.
+Once again the pattern repeated itself: The discovery of general relativity, while resolving one conflict, led to another. Over the
+course of the three decades beginning in 1900, physicists developed quantum mechanics (discussed in Chapter 4) in response to a
+number of glaring problems that arose when nineteenth-century conceptions of physics were applied to the microscopic world. And
+as mentioned above, the third and deepest conflict arises from the incompatibility between quantum mechanics and general
+relativity. As we will see in Chapter 5, the gently curving geometrical form of space emerging from general relativity is at
+loggerheads with the frantic, roiling, microscopic behavior of the universe implied by quantum mechanics. As it was not until the
+mid-1980s that string theory offered a resolution, this conflict is rightly called the central problem of modern physics. Moreover,
+building on special and general relativity, string theory requires its own severe revamping of our conceptions of space and time.
+For example, most of us take for granted that our universe has three spatial dimensions. But this is not so according to string
+theory, which claims that our universe has many more dimensions than meet the eye dimensions that are tightly curled into th
+folded fabric of the cosmos. So central are these remarkable insights into the nature of space and time that we shall use them as a
+guiding theme in all that follows. String theory, in a real sense, is the story of space and time since Einstein.
+To appreciate what string theory actually is, we need to take a step back and briefly describe what we have learned during the last
+century about the microscopic structure of the universe.
+The Universe at Its Smallest: What We Know about Matter
+The ancient Greeks surmised that the stuff of the universe was made up of tiny "uncuttable" ingredients that they called atoms. Just
+as the enormous number of words in an alphabetic language is built up from the wealth of combinations of a small number of
+letters, they guessed that the vast range of material objects might also result from combinations of a small number of distinct,
+elementary building blocks. It was a prescient guess. More than 2,000 years later we still believe it to be true, although the identity
+of the most fundamental units has gone through numerous revisions. In the nineteenth century scientists showed that many familiar
+substances such as oxygen and carbon had a smallest recognizable constituent; following in the tradition laid down by the Greeks,
+they called them atoms. The name stuck, but history has shown it to be a misnomer, since atoms surely are "cuttable." By the early
+1930s the collective works of J. J. Thomson, Ernest Rutherford, Niels Bohr, and James Chadwick had established the solar
+system–like atomic model with which most of us are familiar. Far from being the most elementary material constituent, atoms
+consist of a nucleus, containing protons and neutrons, that is surrounded by a swarm of orbiting electrons.
+For a while many physicists thought that protons, neutrons, and electrons were the Greeks' "atoms." But in 1968 experimenters at
+the Stanford Linear Accelerator Center, making use of the increased capacity of technology to probe the microscopic depths of
+matter, found that protons and neutrons are not fundamental, either. Instead they showed that each consists of three smaller
+particles, called quarks a whimsical name taken from a passage in James Joyce's Finnegan's Wake by the theoretical physicis
+-- 8 --
+Murray Gell-Mann, who previously had surmised their existence. The experimenters confirmed that quarks themselves come in
+two varieties, which were named, a bit less creatively, up and down. A proton consists of two up-quarks and a down-quark; a
+neutron consists of two down-quarks and an up-quark.
+Everything you see in the terrestrial world and the heavens above appears to be made from combinations of electrons, up-quarks,
+and down-quarks. No experimental evidence indicates that any of these three particles is built up from something smaller. But a
+great deal of evidence indicates that the universe itself has additional particulate ingredients. In the mid-1950s, Frederick Reines
+and Clyde Cowan found conclusive experimental evidence for a fourth kind of fundamental particle called a neutrino a particl
+whose existence was predicted in the early 1930s by Wolfgang Pauli. Neutrinos proved very difficult to find because they are
+ghostly particles that only rarely interact with other matter: an average-energy neutrino can easily pass right through many trillion
+miles of lead without the slightest effect on its motion. This should give you significant relief, because right now as you read this,
+billions of neutrinos ejected into space by the sun are passing through your body and the earth as well, as part of their lonely
+journey through the cosmos. In the late 1930s, another particle called a muon identical to an electron except that a muon is abou
+200 times heavier was discovered by physicists studying cosmic rays (showers of particles that bombard earth from outer space)
+Because there was nothing in the cosmic order, no unsolved puzzle, no tailor-made niche, that necessitated the muon's existence,
+the Nobel Prize–winning particle physicist Isidor Isaac Rabi greeted the discovery of the muon with a less than enthusiastic "Who
+ordered that?" Nevertheless, there it was. And more was to follow.
+Using ever more powerful technology, physicists have continued to slam bits of matter together with ever increasing energy,
+momentarily recreating conditions unseen since the big bang. In the debris they have searched for new fundamental ingredients to
+add to the growing list of particles. Here is what they have found: four more quarks charm, strange, bottom, and top a
+another even heavier cousin of the electron, called a tau, as well as two other particles with properties similar to the neutrino
+(called the muon-neutrino and tau-neutrino to distinguish them from the original neutrino, now called the electron-neutrino). These
+particles are produced through high-energy collisions and exist only ephemerally; they are not constituents of anything we typically
+encounter. But even this is not quite the end of the story. Each of these particles has an antiparticle partner a particle of identica
+mass but opposite in certain other respects such as its electric charge (as well as its charges with respect to other forces discussed
+below). For instance, the antiparticle of an electron is called a positron it has exactly the same mass as an electron, but its electri
+charge is +1 whereas the electric charge of the electron is -1. When in contact, matter and antimatter can annihilate one another to
+produce pure energy that's why there is extremely little naturally occurring antimatter in the world around us
+Physicists have recognized a pattern among these particles, displayed in Table 1.1. The matter particles neatly fall into three
+groups, which are often called families. Each family contains two of the quarks, an electron or one of its cousins, and one of the
+neutrino species. The corresponding particle types across the three families have identical properties except for their mass, which
+grows larger in each successive family. The upshot is that physicists have now probed the structure of matter to scales of about a
+billionth of a billionth of a meter and shown that everything encountered to date whether it occurs naturally or is produce
+artificially with giant atom-smashers 
+consists of some combination of
+particles from these three families and
+their antimatter partners.
+A glance at Table 1.1 will no doubt
+leave you with an even stronger sense
+of Rabi's bewilderment at the discovery
+of the muon. The arrangement into
+families at least gives some semblance
+of order, but innumerable "whys" leap
+to the fore. Why are there so many
+fundamental particles, especially when
+it seems that the great majority of
+things in the world around us need only
+electrons, up-quarks, and down-quarks?
+Why are there three families? Why not
+one family or four families or any other number? Why do the particles have a seemingly random spread of masses why, fo
+instance, does the tau weigh about 3,520 times as much as an electron? Why does the top quark weigh about 40,200 times as much
+an up-quark? These are such strange, seemingly random numbers. Did they occur by chance, by some divine choice, or is there a
+comprehensible scientific explanation for these fundamental features of our universe?
+Family 1 Family 2 Family 3
+Particle Mass Particle Mass Particle Mass
+Electron .00054 Muon .11 Tau 1.9
+Electronneutrino
+< 10-8 Muonneutrino
+< .0003 Tau-neutrino < .033
+Up-quark .0047 Charm Quark 1.6 Top Quark 189
+Down-quark .0074 Strange
+Quark
+.16 Bottom
+Quark
+5.2
+Table 1.1 The three families of fundamental particles and their masses (in multiples of
+the proton mass). The values of the neutrino masses have so far eluded experimental
+determination.
+-- 9 --
+The Forces, or, Where's the Photon?
+Things only become more complicated when we consider the forces of nature. The world around us is replete with means of
+exerting influence: balls can be hit with bats, bungee enthusiasts can throw themselves earthward from high platforms, magnets can
+keep superfast trains suspended just above metallic tracks, Geiger counters can tick in response to radioactive material, nuclear
+bombs can explode. We can influence objects by vigorously pushing, pulling, or shaking them; by hurling or firing other objects
+into them; by stretching, twisting, or crushing them; or by freezing, heating, or burning them. During the past hundred years
+physicists have accumulated mounting evidence that all of these interactions between various objects and materials, as well as any
+of the millions upon millions of others encountered daily, can be reduced to combinations of four fundamental forces. One of these
+is the gravitational force. The other three are the
+electromagnetic force, the weak force, and the strong
+force.
+Gravity is the most familiar of the forces, being
+responsible for keeping us in orbit around the sun as well
+as for keeping our feet firmly planted on earth. The mass
+of an object measures how much gravitational force it
+can exert as well as feel. The electromagnetic force is the
+next most familiar of the four. It is the force driving all of
+the conveniences of modern life lights, computers
+TVs, telephones and underlies the awesome might o
+lightning storms and the gentle touch of a human hand.
+Microscopically, the electric charge of a particle plays
+the same role for the electromagnetic force as mass does
+for gravity: it determines how strongly the particle can
+exert as well as respond electromagnetically.
+The strong and the weak forces are less familiar because their strength rapidly diminishes over all but subatomic distance scales;
+they are the nuclear forces. This is why these two forces were discovered only much more recently. The strong force is responsible
+for keeping quarks "glued" together inside of protons and neutrons and keeping protons and neutrons tightly crammed together
+inside atomic nuclei. The weak force is best known as the force responsible for the radioactive decay of substances such as uranium
+and cobalt.
+During the past century, physicists have found two features common to all these forces. First, as we will discuss in Chapter 5, at a
+microscopic level all the forces have an associated particle that you can think of as being the smallest packet or bundle of the force.
+If you fire a laser beam an "electromagnetic ray gun" you are firing a stream of photons, the smallest bundles of t
+electromagnetic force. Similarly, the smallest constituents of weak and strong force fields are particles called weak gauge bosons
+and gluons. (The name gluon is particularly descriptive: You can think of gluons as the microscopic ingredient in the strong glue
+holding atomic nuclei together.) By 1984 experimenters had definitively established the existence and the detailed properties of
+these three kinds of force particles, recorded in Table 1.2. Physicists believe that the gravitational force also has an associated
+particle the graviton but its existence has yet to be confirmed experimentall
+The second common feature of the forces is that just as mass determines how gravity affects a particle, and electric charge
+determines how the electromagnetic force affects it, particles are endowed with certain amounts of "strong charge" and "weak
+charge" that determine how they are affected by the strong and weak forces. (These properties are detailed in the table in the
+endnotes to this chapter.1) But as with particle masses, beyond the fact that experimental physicists have carefully measured these
+1 The table below is an elaboration of Table 1.1. It records the masses and force charges of the particles of all three families. Each type of quark can carry three possible strong-force
+charges that are, somewhat fancifully, labeled as colors they stand for numerical strong-force charges values. The weak charges recorded are, more precisely, the "third-component" o
+weak isospin. (We have not listed the "right-handed" components of the particles they differ by having no weak charge.
+Family 1
+Particle Mass Electric charge Weak charge Strong charge
+Electron .0054 -1 -1/2 0
+Electron-Neutrino < 10(-8) 0 1/2 0
+Up Quark .0047 2/3 1/2 red, green, blue
+Down Quark .0074 -1/3 -1/2r red, green, blue
+Force Force particle Mass
+Strong Gluon 0
+Electromagnetic Photon 0
+Weak Weak gauge bosons 86, 97
+Gravity Graviton 0
+Table 1.2 The four forces of nature, together with their associated
+force particles and their masses in multiples of the proton mass.
+(The weak force particles come in varieties with the two possible
+masses listed. Theoretical studies show that the graviton should be
+massless.)
+-- 10 --
+properties, no one has any explanation of why our universe is composed of these particular particles, with these particular masses
+and force charges.
+Notwithstanding their common features, an examination of the fundamental forces themselves serves only to compound the
+questions. Why, for instance, are there four fundamental forces? Why not five or three or perhaps only one? Why do the forces
+have such different properties? Why are the strong and weak forces confined to operate on microscopic scales while gravity and the
+electromagnetic force have an unlimited range of influence? And why is there such an enormous spread in the intrinsic strength of
+these forces?
+To appreciate this last question, imagine holding an electron in your left hand and another electron in your right hand and bringing
+these two identical electrically charged particles close together. Their mutual gravitational attraction will favor their getting closer
+while their electromagnetic repulsion will try to drive them apart. Which is stronger? There is no contest: The electromagnetic
+repulsion is about a million billion billion billion billion (10 to the 42th) times stronger! If your right bicep represents the strength
+of the gravitational force, then your left bicep would have to extend beyond the edge of the known universe to represent the
+strength of the electromagnetic force. The only reason the electromagnetic force does not completely overwhelm gravity in the
+world around us is that most things are composed of an equal amount of positive and negative electric charges whose forces cancel
+each other out. On the other hand, since gravity is always attractive, there are no analogous cancellations more stuff mean
+greater gravitational force. But fundamentally speaking, gravity is an extremely feeble force. (This fact accounts for the difficulty
+in experimentally confirming the existence of the graviton. Searching for the smallest bundle of the feeblest force is quite a
+challenge.) Experiments also have shown that the strong force is about one hundred times as strong as the electromagnetic force
+and about one hundred thousand times as strong as the weak force. But where is the rationale the raison d'etre for our univer
+having these features?
+This is not a question borne of idle philosophizing about why certain details happen to be one way instead of another; the universe
+would be a vastly different place if the properties of the matter and force particles were even moderately changed. For example, the
+existence of the stable nuclei forming the hundred or so elements of the periodic table hinges delicately on the ratio between the
+strengths of the strong and electromagnetic forces. The protons crammed together in atomic nuclei all repel one another
+electromagnetically; the strong force acting among their constituent quarks, thankfully, overcomes this repulsion and tethers the
+protons tightly together. But a rather small change in the relative strengths of these two forces would easily disrupt the balance
+between them, and would cause most atomic nuclei to disintegrate. Furthermore, were the mass of the electron a few times greater
+than it is, electrons and protons would tend to combine to form neutrons, gobbling up the nuclei of hydrogen (the simplest element
+in the cosmos, with a nucleus containing a single proton) and, again, disrupting the production of more complex elements. Stars
+rely upon fusion between stable nuclei and would not form with such alterations to fundamental physics. The strength of the
+gravitational force also plays a formative role. The crushing density of matter in a star's central core powers its nuclear furnace and
+underlies the resulting blaze of starlight. If the strength of the gravitational force were increased, the stellar clump would bind more
+strongly, causing a significant increase in the rate of nuclear reactions. But just as a brilliant flare exhausts its fuel much faster than
+a slow-burning candle, an increase in the nuclear reaction rate would cause stars like the sun to burn out far more quickly, having a
+devastating effect on the formation of life as we know it. On the other hand, were the strength of the gravitational force
+significantly decreased, matter would not clump together at all, thereby preventing the formation of stars and galaxies.
+We could go on, but the idea is clear: the universe is the way it is because the matter and the force particles have the properties they
+do. But is there a scientific explanation for why they have these properties?
+Family 2
+Particle Mass Electric charge Weak charge Strong charge
+Muon .11 -1 -1/2 0
+Muon-Neutrino < .0003 0 1/2 0
+Charm Quark 1.6 2/3 1/2 red, green, blue
+Strange Quark .16 -1/3 -1/2 red, green, blue
+Family 3
+Particle Mass Electric charge Weak charge Strong charge
+Tau 1.9 -1 -1/2 0
+Tau-Neutrino < .033 0 1/2 0
+Top Quark 189 2/3 1/2 red, green, blue
+Bottom Quark 5.2 -1/3 -1/2 red, green, blue
+-- 11 --
+String Theory: The Basic Idea
+String theory offers a powerful conceptual paradigm in which, for the first time, a framework for answering these questions has
+emerged. Let's first get the basic idea.
+The particles in Table 1.1 are the "letters" of all matter. Just like their linguistic counterparts, they appear to have no further
+internal substructure. String theory proclaims otherwise. According to string theory, if we could examine these particles with even
+greater precision a precision many orders of magnitud
+beyond our present technological capacity we would fin
+that each is not pointlike, but instead consists of a tiny onedimensional
+loop. Like an infinitely thin rubber band, each
+particle contains a vibrating, oscillating, dancing filament
+that physicists, lacking Gell-Mann's literary flair, have
+named a string. In Figure 1.1 we illustrate this essential
+idea of string theory by starting with an ordinary piece of
+matter, an apple, and repeatedly magnifying its structure to
+reveal its ingredients on ever smaller scales. String theory
+adds the new microscopic layer of a vibrating loop to the
+previously known progression from atoms through
+protons, neutrons, electrons and quarks.2
+Although it is by no means obvious, we will see in Chapter
+6 that this simple replacement of point-particle material
+constituents with strings resolves the incompatibility
+between quantum mechanics and general relativity. String
+theory thereby unravels the central Gordian knot of
+contemporary theoretical physics. This is a tremendous
+achievement, but it is only part of the reason string theory
+has generated such excitement.
+String Theory as the Unified Theory of Everything
+In Einstein's day, the strong and the weak forces had not yet been discovered, but he found the existence of even two distinct
+forces gravity and electromagnetism deeply troubling. Einstein did not accept that nature is founded on such an extravaga
+design. This launched his thirty-year voyage in search of the so-called unified field theory that he hoped would show that these two
+forces are really manifestations of one grand underlying principle. This quixotic quest isolated Einstein from the mainstream of
+physics, which, understandably, was far more excited about delving into the newly emerging framework of quantum mechanics.
+He wrote to a friend in the early 1940s,  I have become a lonely old chap who is mainly known because he doesn't wear socks an
+who is exhibited as a curiosity on special occasions.  
+Einstein was simply ahead of his time. More than half a century later, his dream of a unified theory has become the Holy Grail of
+modern physics. And a sizeable part of the physics and mathematics community is becoming increasingly convinced that string
+theory may provide the answer. From one principle that everything at its most microscopic level consists of combinations o
+vibrating strands string theory provides a single explanatory framework capable of encompassing all forces and all matter
+String theory proclaims, for instance, that the observed particle properties, the data summarized in Tables 1.1 and 1.2, are a
+reflection of the various ways in which a string can vibrate. Just as the strings on a violin or on a piano have resonant frequencies at
+which they prefer to vibrate patterns that our ears sense as various musical notes and their higher harmonics the same holds tr
+for the loops of string theory. But we will see that, rather than producing musical notes, each of the preferred patterns of vibration
+of a string in string theory appears as a particle whose mass and force charges are determined by the string's oscillatory pattern. The
+electron is a string vibrating one way, the up-quark is a string vibrating another way, and so on. Far from being a collection of
+chaotic experimental facts, particle properties in string theory are the manifestation of one and the same physical feature: the
+resonant patterns of vibration the music, so to speak of fundamental loops of string. The same idea applies to the forces 
+2 Strings can also have two freely moving ends (so-called open strings) in addition to the loops (closed strings) illustrated in Figure 1.1. To ease our presentation, for the most part we will
+focus on closed strings, although essentially all of what we say applies to both.
+3 Albert Einstein, in a 1942 letter to a friend, as quoted in Tony Hey and Patrick Walters, Einstein's Mirror (Cambridge, Eng.: Cambridge University Press, 1997).
+Figure 1.1 Matter is composed of atoms, which in turn are made
+from quarks and electrons. According to string theory, all such
+particles are actually tiny loops of vibrating string.
+-- 12 --
+nature as well. We will see that force particles are also associated with particular patterns of string vibration and hence everything,
+all matter and all forces, is unified under the same rubric of microscopic string oscillations the "notes" that strings can play
+For the first time in the history of physics we therefore have a framework with the capacity to explain every fundamental feature
+upon which the universe is constructed. For this reason string theory is sometimes described as possibly being the "theory of
+everything" (T.O.E.) or the "ultimate" or "final" theory. These grandiose descriptive terms are meant to signify the deepest possible
+theory of physics a theory that underlies all others, one that does not require or even allow for a deeper explanatory base. I
+practice, many string theorists take a more down-to-earth approach and think of a T.O.E. in the more limited sense of a theory that
+can explain the properties of the fundamental particles and the properties of the forces by which they interact and influence one
+another. A staunch reductionist would claim that this is no limitation at all, and that in principle absolutely everything, from the big
+bang to daydreams, can be described in terms of underlying microscopic physical processes involving the fundamental constituents
+of matter. If you understand everything about the ingredients, the reductionist argues, you understand everything.
+The reductionist philosophy easily ignites heated debate. Many find it fatuous and downright repugnant to claim that the wonders
+of life and the universe are mere reflections of microscopic particles engaged in a pointless dance fully choreographed by the laws
+of physics. Is it really the case that feelings of joy, sorrow, or boredom are nothing but chemical reactions in the brain reaction
+between molecules and atoms that, even more microscopically, are reactions between some of the particles in Table 1.1, which are
+really just vibrating strings? In response to this line of criticism, Nobel laureate Steven Weinberg cautions in Dreams of a Final
+Theory,
+At the other end of the spectrum are the opponents of reductionism who are appalled by what they feel to be the
+bleakness of modern science. To whatever extent they and their world can be reduced to a matter of particles or
+fields and their interactions, they feel diminished by that knowledge. . . . I would not try to answer these critics
+with a pep talk about the beauties of modern science. The reductionist worldview is chilling and impersonal. It
+has to be accepted as it is, not because we like it, but because that is the way the world works.4
+Some agree with this stark view, some don't.
+Others have tried to argue that developments such as chaos theory tell us that new kinds of laws come into play when the level of
+complexity of a system increases. Understanding the behavior of an electron or a quark is one thing; using this knowledge to
+understand the behavior of a tornado is quite another. On this point, most agree. But opinions diverge on whether the diverse and
+often unexpected phenomena that can occur in systems more complex than individual particles truly represent new physical
+principles at work, or whether the principles involved are derivative, relying, albeit in a terribly complicated way, on the physical
+principles governing the enormously large number of elementary constituents. My own feeling is that they do not represent new
+and independent laws of physics. Although it would be hard to explain the properties of a tornado in terms of the physics of
+electrons and quarks, I see this as a matter of calculational impasse, not an indicator of the need for new physical laws. But again,
+there are some who disagree with this view.
+What is largely beyond question, and is of primary importance to the journey described in this book, is that even if one accepts the
+debatable reasoning of the staunch reductionist, principle is one thing and practice quite another. Almost everyone agrees that
+finding the T.O.E. would in no way mean that psychology, biology, geology, chemistry, or even physics had been solved or in
+some sense subsumed. The universe is such a wonderfully rich and complex place that the discovery of the final theory, in the
+sense we are describing here, would not spell the end of science. Quite the contrary: The discovery of the T.O.E. the ultimat
+explanation of the universe at its most microscopic level, a theory that does not rely on any deeper explanation would provide th
+firmest foundation on which to build our understanding of the world. Its discovery would mark a beginning, not an end. The
+ultimate theory would provide an unshakable pillar of coherence forever assuring us that the universe is a comprehensible place.
+The State of String Theory
+The central concern of this book is to explain the workings of the universe according to string theory, with a primary emphasis on
+the implications that these results have for our understanding of space and time. Unlike many other exposÈs of scientific
+developments, the one given here does not address itself to a theory that has been completely worked out, confirmed by vigorous
+experimental tests, and fully accepted by the scientific community. The reason for this, as we will discuss in subsequent chapters,
+is that string theory is such a deep and sophisticated theoretical structure that even with the impressive progress that has been made
+over the last two decades, we still have far to go before we can claim to have achieved full mastery.
+4 Steven Weinberg, Dreams of a Final Theory (New York: Pantheon, 1992), p.52.
+-- 13 --
+And so string theory should be viewed as a work in progress whose partial completion has already revealed astonishing insights
+into the nature of space, time, and matter. The harmonious union of general relativity and quantum mechanics is a major success.
+Furthermore, unlike any previous theory, string theory has the capacity to answer primordial questions having to do with nature's
+most fundamental constituents and forces. Of equal importance, although somewhat harder to convey, is the remarkable elegance
+of both the answers and the framework for answers that string theory proposes. For instance, in string theory many aspects of
+nature that might appear to be arbitrary technical details such as the number of distinct fundamental particle ingredients and thei
+respective properties are found to arise from essential and tangible aspects of the geometry of the universe. If string theory i
+right, the microscopic fabric of our universe is a richly intertwined multidimensional labyrinth within which the strings of the
+universe endlessly twist and vibrate, rhythmically beating out the laws of the cosmos. Far from being accidental details, the
+properties of nature's basic building blocks are deeply entwined with the fabric of space and time.
+In the final analysis, though, nothing is a substitute for definitive, testable predictions that can determine whether string theory has
+truly lifted the veil of mystery hiding the deepest truths of our universe. It may be some time before our level of comprehension has
+reached sufficient depth to achieve this aim, although, as we will discuss in Chapter 9, experimental tests could provide strong
+circumstantial support for string theory within the next ten years or so. Moreover, in Chapter 13 we will see that string theory has
+recently solved a central puzzle concerning black holes, associated with the so-called Bekenstein-Hawking entropy, that has
+stubbornly resisted resolution by more conventional means for more than twenty-five years. This success has convinced many that
+string theory is in the process of giving us our deepest understanding of how the universe works.
+Edward Witten, one of the pioneers and leading experts in string theory, summarizes the situation by saying that "string theory is a
+part of twenty-first-century physics that fell by chance into the twentieth century," an assessment first articulated by the celebrated
+Italian physicist Danielle Amati.5 In a sense, then, it is as if our forebears in the late nineteenth century had been presented with a
+modern-day supercomputer, without the operating instructions. Through inventive trial and error, hints of the supercomputer's
+power would have become evident, but it would have taken vigorous and prolonged effort to gain true mastery. The hints of the
+computer's potential, like our glimpses of string theory's explanatory power, would have provided extremely strong motivation for
+obtaining complete facility. A similar motivation today energizes a generation of theoretical physicists to pursue a full and precise
+analytic understanding of string theory.
+Witten's remark and those of other experts in the field indicate that it could be decades or even centuries before string theory is
+fully developed and understood. This may well be true. In fact, the mathematics of string theory is so complicated that, to date, no
+one even knows the exact equations of the theory. Instead, physicists know only approximations to these equations, and even the
+approximate equations are so complicated that they as yet have been only partially solved. Nevertheless, an inspiring set of
+breakthroughs in the latter half of the 1990s breakthroughs that have answered theoretical questions of hitherto unimaginabl
+difficulty may well indicate that complete quantitative understanding of string theory is much closer than initially thought
+Physicists worldwide are developing powerful new techniques to transcend the numerous approximate methods so far used,
+collectively piecing together disparate elements of the string theory puzzle at an exhilarating rate.
+Surprisingly, these developments are providing new vantage points for reinterpreting some of the basic aspects of the theory that
+have been in place for some time. For instance, a natural question that may have occurred to you in looking at Figure 1.1 is, Why
+strings? Why not little frisbee disks? Or microscopic bloblike nuggets? Or a combination of all of these possibilities? As we shall
+see in Chapter 12, the most recent insights show that these other kinds of ingredients do have an important role in string theory, and
+have revealed that string theory is actually part of an even grander synthesis currently (and mysteriously) named M-theory. These
+latest developments will be the subject of the final chapters of this book.
+Progress in science proceeds in fits and starts. Some periods are filled with great breakthroughs; at other times researchers
+experience dry spells. Scientists put forward results, both theoretical and experimental. The results are debated by the community,
+sometimes they are discarded, sometimes they are modified, and sometimes they provide inspirational jumping-off points for new
+and more accurate ways of understanding the physical universe. In other words, science proceeds along a zig-zag path toward what
+we hope will be ultimate truth, a path that began with humanity's earliest attempts to fathom the cosmos and whose end we cannot
+predict. Whether string theory is an incidental rest stop along this path, a landmark turning point, or in fact the final destination we
+do not know. But the last two decades of research by hundreds of dedicated physicists and mathematicians from numerous
+countries have given us well-founded hope that we are on the right and possibly final track.
+It is a telling testament of the rich and far-reaching nature of string theory that even our present level of understanding has allowed
+us to gain striking new insights into the workings of the universe. A central thread in what follows will be those developments that
+5 Interview with Edward Witten, May 11, 1998.
+-- 14 --
+carry forward the revolution in our understanding of space and time initiated by Einstein's special and general theories of relativity.
+We will see that if string theory is correct, the fabric of our universe has properties that would likely have dazzled even Einstein.

@@ -1,0 +1,6 @@
+37
+123.1
+
+Format for nth root of r:
+n
+r

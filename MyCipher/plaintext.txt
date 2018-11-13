@@ -1,0 +1,103 @@
+Chapter 1
+
+Tied Up With String
+
+Calling it a cover-up would be far too dramatic. But for more than half a century even in the midst of some of the greatest
+scientific achievements in history physicists have been quietly aware of a dark cloud looming on a distant horizon. The problem
+is this: There are two foundational pillars upon which modern physics rests. One is Albert Einstein's general relativity, which
+provides a theoretical framework for understanding the universe on the largest of scales: stars, galaxies, clusters of galaxies, and
+beyond to the immense expanse of the universe itself. The other is quantum mechanics, which provides a theoretical framework for
+understanding the universe on the smallest of scales: molecules, atoms, and all the way down to subatomic particles like electrons
+and quarks. Through years of research, physicists have experimentally confirmed to almost unimaginable accuracy virtually all
+predictions made by each of these theories. But these same theoretical tools inexorably lead to another disturbing conclusion: As
+they are currently formulated, general relativity and quantum mechanics cannot both be right. The two theories underlying the
+tremendous progress of physics during the last hundred years progress that has explained the expansion of the heavens and the
+fundamental structure of matter are mutually incompatible
+
+If you have not heard previously about this ferocious antagonism you may be wondering why. The answer is not hard to come by.
+In all but the most extreme situations, physicists study things that are either small and light (like atoms and their constituents) or
+things that are huge and heavy (like stars and galaxies), but not both. This means that they need use only quantum mechanics or
+only general relativity and can, with a furtive glance, shrug off the barking admonition of the other. For fifty years this approach
+has not been quite as blissful as ignorance, but it has been pretty close.
+But the universe can be extreme. In the central depths of a black hole an enormous mass is crushed to a minuscule size. At the
+moment of the big bang the whole of the universe erupted from a microscopic nugget whose size makes a grain of sand look
+colossal. These are realms that are tiny and yet incredibly massive, therefore requiring that both quantum mechanics and general
+relativity simultaneously be brought to bear. For reasons that will become increasingly clear as we proceed, the equations of
+general relativity and quantum mechanics, when combined, begin to shake, rattle, and gush with steam like a red-lined automobile.
+Put less figuratively, well-posed physical questions elicit nonsensical answers from the unhappy amalgam of these two theories.
+Even if you are willing to keep the deep interior of a black hole and the beginning of the universe shrouded in mystery, you can't
+help feeling that the hostility between quantum mechanics and general relativity cries out for a deeper level of understanding. Can
+it really be that the universe at its most fundamental level is divided, requiring one set of laws when things are large and a different,
+incompatible set when things are small?
+
+Superstring theory, a young upstart compared with the venerable edifices of quantum mechanics and general relativity, answers
+with a resounding no. Intense research over the past decade by physicists and mathematicians around the world has revealed that
+this new approach to describing matter at its most fundamental level resolves the tension between general relativity and quantum
+mechanics. In fact, superstring theory shows more: Within this new framework, general relativity and quantum mechanics require
+one another for the theory to make sense. According to superstring theory, the marriage of the laws of the large and the small is not
+only happy but inevitable.
+That's part of the good news. But superstring theory string theory, for short takes this union one giant step further. For three
+decades, Einstein sought a unified theory of physics, one that would interweave all of nature's forces and material constituents
+within a single theoretical tapestry. He failed. Now, at the dawn of the new millennium, proponents of string theory claim that the
+threads of this elusive unified tapestry finally have been revealed. String theory has the potential to show that all of the wondrous
+happenings in the universe from the frantic dance of subatomic quarks to the stately waltz of orbiting binary stars, from the
+primordial fireball of the big bang to the majestic swirl of heavenly galaxies are reflections of one grand physical principle, on
+master equation.
+Because these features of string theory require that we drastically change our understanding of space, time, and matter, they will
+take some time to get used to, to sink in at a comfortable level. But as shall become clear, when seen in its proper context, string
+theory emerges as a dramatic yet natural outgrowth of the revolutionary discoveries of physics during the past hundred years. In
+fact, we shall see that the conflict between general relativity and quantum mechanics is actually not the first, but the third in a
+sequence of pivotal conflicts encountered during the past century, each of whose resolution has resulted in a stunning revision of
+our understanding of the universe.
+
+The Three Conflicts
+
+The first conflict, recognized as far back as the late 1800s, concerns puzzling properties of the motion of light. Briefly put,
+according to Isaac Newton's laws of motion, if you run fast enough you can catch up with a departing beam of light, whereas
+according to James Clerk Maxwell's laws of electromagnetism, you can't. As we will discuss in Chapter 2, Einstein resolved this
+conflict through his theory of special relativity, and in so doing completely overturned our understanding of space and time.
+According to special relativity, no longer can space and time be thought of as universal concepts set in stone, experienced
+identically by everyone. Rather, space and time emerged from Einstein's reworking as malleable constructs whose form and
+appearance depend on one's state of motion.
+The development of special relativity immediately set the stage for the second conflict. One conclusion of Einstein's work is that no
+object in fact, no influence or disturbance of any sort can travel faster than the speed of light. But, as we shall discuss 
+Chapter 3, Newton's experimentally successful and intuitively pleasing universal theory of gravitation involves influences that are
+transmitted over vast distances of space instantaneously. It was Einstein, again, who stepped in and resolved the conflict by
+offering a new conception of gravity with his 1915 general theory of relativity. Just as special relativity overturned previous
+conceptions of space and time, so too did general relativity. Not only are space and time influenced by one's state of motion, but
+they can warp and curve in response to the presence of matter or energy. Such distortions to the fabric of space and time, as we
+shall see, transmit the force of gravity from one place to another. Space and time, therefore, can no longer to be thought of as an
+inert backdrop on which the events of the universe play themselves out; rather, through special and then general relativity, they are
+intimate players in the events themselves.
+
+Once again the pattern repeated itself: The discovery of general relativity, while resolving one conflict, led to another. Over the
+course of the three decades beginning in 1900, physicists developed quantum mechanics (discussed in Chapter 4) in response to a
+number of glaring problems that arose when nineteenth-century conceptions of physics were applied to the microscopic world. And
+as mentioned above, the third and deepest conflict arises from the incompatibility between quantum mechanics and general
+relativity. As we will see in Chapter 5, the gently curving geometrical form of space emerging from general relativity is at
+loggerheads with the frantic, roiling, microscopic behavior of the universe implied by quantum mechanics. As it was not until the
+mid-1980s that string theory offered a resolution, this conflict is rightly called the central problem of modern physics. Moreover,
+building on special and general relativity, string theory requires its own severe revamping of our conceptions of space and time.
+For example, most of us take for granted that our universe has three spatial dimensions. But this is not so according to string
+theory, which claims that our universe has many more dimensions than meet the eye dimensions that are tightly curled into the
+folded fabric of the cosmos. So central are these remarkable insights into the nature of space and time that we shall use them as a
+guiding theme in all that follows. String theory, in a real sense, is the story of space and time since Einstein.
+To appreciate what string theory actually is, we need to take a step back and briefly describe what we have learned during the last
+century about the microscopic structure of the universe.
+
+The Universe at Its Smallest: What We Know about Matter
+
+The ancient Greeks surmised that the stuff of the universe was made up of tiny "uncuttable" ingredients that they called atoms. Just
+as the enormous number of words in an alphabetic language is built up from the wealth of combinations of a small number of
+letters, they guessed that the vast range of material objects might also result from combinations of a small number of distinct,
+elementary building blocks. It was a prescient guess. More than 2,000 years later we still believe it to be true, although the identity
+of the most fundamental units has gone through numerous revisions. In the nineteenth century scientists showed that many familiar
+substances such as oxygen and carbon had a smallest recognizable constituent; following in the tradition laid down by the Greeks,
+they called them atoms. The name stuck, but history has shown it to be a misnomer, since atoms surely are "cuttable." By the early
+1930s the collective works of J. J. Thomson, Ernest Rutherford, Niels Bohr, and James Chadwick had established the solar
+system–like atomic model with which most of us are familiar. Far from being the most elementary material constituent, atoms
+consist of a nucleus, containing protons and neutrons, that is surrounded by a swarm of orbiting electrons.
+For a while many physicists thought that protons, neutrons, and electrons were the Greeks' "atoms." But in 1968 experimenters at
+the Stanford Linear Accelerator Center, making use of the increased capacity of technology to probe the microscopic depths of
+matter, found that protons and neutrons are not fundamental, either. Instead they showed that each consists of three smaller
+particles, called quarks a whimsical name taken from a passage in James Joyce's Finnegan's Wake by the theoretical physicist
